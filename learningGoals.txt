@@ -1,0 +1,4 @@
+Computer Science Learning Goals: 
+	To attain a system level understanding of the computer. To be fair this is more about operating systems as a class in general, but it was absolutely fascinating to dig into some of the guts of computer science that we don’t see that often these days where it’s just not as necessary. 
+College Wide Learning Goals:
+	Critical thinking. I did say they were logic puzzles. If you tried to just jump into these problems without exploring they system and messing around a bit you were in for a bad time.
